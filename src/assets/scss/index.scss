@@ -1,0 +1,5 @@
+@import 'mixins';
+
+@include font-face('Roboto', '~@/assets/fonts/Roboto-Light', 300);
+@include font-face('Roboto', '~@/assets/fonts/Roboto-Regular', 400);
+@include font-face('Roboto', '~@/assets/fonts/Roboto-Medium', 500);
